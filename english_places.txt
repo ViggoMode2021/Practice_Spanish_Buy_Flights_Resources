@@ -2,3 +2,33 @@ the house
 the beach
 the school
 the restaurant
+the bank
+the apartment
+the pool
+the doctor's office
+the dentist
+the street
+the avenue
+the store
+the gas station
+the police department
+the fire station
+the park
+the cafe
+the houses
+the beaches
+the schools
+the restaurants
+the banks
+the apartments
+the pools
+the doctor's offices
+the dentists
+the streets
+the avenues
+the stores
+the gas stations
+the police departments
+the firestations
+the parks
+the cafes
