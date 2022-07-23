@@ -5,3 +5,5 @@ What time is it?
 Where is the bathroom?
 Do you speak Spanish?
 Do you speak English?
+What is the date?
+When is your birthday?
