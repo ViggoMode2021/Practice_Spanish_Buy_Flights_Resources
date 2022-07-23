@@ -1,0 +1,14 @@
+red
+yellow
+blue
+pink
+green
+gray
+brown
+white
+black
+purple
+silver
+gold
+orange
+clear
