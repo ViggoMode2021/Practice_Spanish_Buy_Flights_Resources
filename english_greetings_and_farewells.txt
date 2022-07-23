@@ -1,0 +1,9 @@
+hello
+goodbye
+good morning
+good afternoon
+good night
+see you later
+see you soon
+see you tomorrow
+see you Monday
