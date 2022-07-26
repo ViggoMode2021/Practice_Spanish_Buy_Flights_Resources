@@ -48,5 +48,5 @@ consult
 present
 respect
 fit
-knowledge	
+know
 discuss
