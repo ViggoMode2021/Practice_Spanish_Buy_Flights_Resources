@@ -5,3 +5,10 @@ It's two forty in the afternoon
 It's three eighteen in the afternoon
 It's four twenty five in the morning
 It's five sixteen in the afternoon
+It's six thirty-five in the evening
+It's seven fourteen in the evening
+It's eight nineteen in the evening
+It's nine fifty in the morning
+It's ten fifty-six in the evening
+It's eleven fifteen in the morning
+It's twelve thirty-eight
