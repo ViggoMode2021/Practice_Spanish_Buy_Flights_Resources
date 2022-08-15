@@ -12,3 +12,6 @@ It's nine fifty in the morning
 It's ten fifty-six in the evening
 It's eleven fifteen in the morning
 It's twelve thirty-eight
+It's ten eleven
+It's one thirty
+It's two o'clock
