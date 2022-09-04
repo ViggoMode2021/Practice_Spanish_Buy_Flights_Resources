@@ -32,3 +32,10 @@ the police departments
 the firestations
 the parks
 the cafes
+the station
+the airport
+the city
+the town
+the village
+the bar
+the hardware store
