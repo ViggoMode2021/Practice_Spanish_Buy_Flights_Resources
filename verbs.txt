@@ -1,0 +1,6 @@
+{'to eat': 'comer', 'to talk': 'hablar', 'to dance': 'bailar', 'to live': 'vivir',
+'to write': 'escribir', 'to practice': 'practicar',
+'to read': 'leer', 'to study': 'estudiar', 'to close': 'cerrar',
+'to play': 'jugar', 'to swim': 'nadar', 'to play': 'tocar',
+'to drink': 'beber', 'to draw': 'dibujar', 'to clean': 'limpiar',
+'to believe': 'creer', 'to express': 'expresar', 'to sleep': 'dormir'}
