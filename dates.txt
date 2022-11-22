@@ -1,0 +1,3 @@
+{'Monday, the 1st of August': 'lunes, el primero de agosto', 'Tuesday, the 2nd of August': 'martes, el dos de agosto',
+'Thursday, the 4th of September': 'jueves, el cuatro de septiembre', 'Friday, the 6th of September': 'viernes, el seis de septiembre',
+'Sunday, the 5th of December': 'domingo, el cinco de diciembre'}
