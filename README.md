@@ -1,6 +1,6 @@
 # Practice Spanish, Buy Flights
 
-# URL: https://practicespanishbuyflights.ue.r.appspot.com/
+# URL: www.practicespanishbuyflights.com
 
 # Creator - Ryan Viglione 
 
